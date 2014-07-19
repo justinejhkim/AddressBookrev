@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="dialog_menu_array">
+        <item>Edit</item>
+        <item>Delete</item>
+        <item>Favorites</item>
+        <item>Call</item>
+        <item>Text</item>
+    </string-array>
+</resources>
